@@ -5,9 +5,7 @@ This is a client-side educational demo of a fictional "ForFox" token. It intenti
 
 ## What's included
 - React + Vite app
-- Demo admin account:
-  - email: `admin@forfox.demo`
-  - password: `AdminPass123`
+- Demo admin account: Netu
 - Demo user: `demo@forfox.demo` / `demo123`
 - Features: registration/login, deposits (demo), referral simulation, admin panel (view/edit users), smooth animations.
 
